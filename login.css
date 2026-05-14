@@ -27,6 +27,7 @@ input {
 .password-box {
     display: flex;
     align-items: center;
+    gap: 5px;
 }
 
 .password-box input {
